@@ -19,7 +19,7 @@ npm install github:your-username/prince-buttons
 
 ```javascript
 const { default: makeWASocket } = require('@whiskeysockets/baileys');
-const { patchBaileysSocket, createButton, createSection } = require('prince-buttons');
+const { patchBaileysSocket, createButton, createSection } = require('prince-btns');
 
 // Create your socket
 const sock = makeWASocket({ /* your config */ });
