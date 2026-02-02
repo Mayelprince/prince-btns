@@ -1,0 +1,27 @@
+{
+  "name": "prince-buttons",
+  "version": "1.0.0",
+  "description": "WhatsApp Interactive Buttons for Baileys - Enables buttons, lists, and interactive messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "buttons",
+    "interactive",
+    "list",
+    "menu",
+    "whatsapp-bot"
+  ],
+  "author": "Prince Tech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/prince-buttons"
+  },
+  "peerDependencies": {
+    "@whiskeysockets/baileys": ">=6.0.0"
+  }
+}
