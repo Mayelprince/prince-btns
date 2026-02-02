@@ -5,12 +5,12 @@ WhatsApp Interactive Buttons for Baileys - Enables buttons, lists, and interacti
 ## Installation
 
 ```bash
-npm install prince-buttons
+npm install prince-btns
 ```
 
 Or install from GitHub:
 ```bash
-npm install github:your-username/prince-buttons
+npm install github:your-username/prince-btns
 ```
 
 ## Usage
