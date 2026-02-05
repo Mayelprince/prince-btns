@@ -1,4 +1,4 @@
-const { generateWAMessageFromContent, prepareWAMessageMedia, proto, getContentType, normalizeMessageContent } = require('@whiskeysockets/baileys');
+const { generateWAMessageFromContent, prepareWAMessageMedia, proto, getContentType, normalizeMessageContent } = require('prince-baileys');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
