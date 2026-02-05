@@ -22,6 +22,6 @@
     "url": "https://github.com/Mayelprince/prince-btns"
   },
   "peerDependencies": {
-    "@whiskeysockets/baileys": ">=6.0.0"
+    "prince-baileys": "npm:gifted-baileys@2.0.6"
   }
 }
